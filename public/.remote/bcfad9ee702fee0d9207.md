@@ -7,8 +7,8 @@ tags:
   - AI
   - SpectralAttention
 private: false
-updated_at: '2026-01-06T10:53:44+09:00'
-id: a2617ac63269dfcc2f9b
+updated_at: '2026-01-06T10:52:13+09:00'
+id: bcfad9ee702fee0d9207
 organization_url_name: null
 slide: false
 ignorePublish: false
