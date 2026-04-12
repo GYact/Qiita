@@ -1,14 +1,14 @@
 ---
-title: "Claude Code の MCP サーバー活用術：外部ツール連携で開発効率を最大化する"
+title: Claude Code の MCP サーバー活用術：外部ツール連携で開発効率を最大化する
 tags:
-  - ClaudeCode
-  - MCP
   - AI
+  - MCP
   - 開発効率化
   - Anthropic
+  - ClaudeCode
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-04-12T13:45:32+09:00'
+id: d0a99d49b399529290f9
 organization_url_name: null
 slide: false
 ignorePublish: false
