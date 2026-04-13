@@ -1,14 +1,14 @@
 ---
-title: "2026年のAIエージェント実装：MCPとマルチエージェントアーキテクチャの実践知見"
+title: 2026年のAIエージェント実装：MCPとマルチエージェントアーキテクチャの実践知見
 tags:
+  - TypeScript
   - AI
   - MCP
-  - LLM
-  - TypeScript
   - Agent
+  - LLM
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-04-13T16:36:10+09:00'
+id: dff02cf5271048629857
 organization_url_name: null
 slide: false
 ignorePublish: false
