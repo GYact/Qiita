@@ -1,14 +1,14 @@
 ---
-title: "マルチモデルルーティング実装入門：複数LLMを賢く使い分けるアーキテクチャ設計"
+title: マルチモデルルーティング実装入門：複数LLMを賢く使い分けるアーキテクチャ設計
 tags:
-  - LLM
   - Python
-  - AI
   - アーキテクチャ
+  - AI
   - OpenAI
+  - LLM
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-05-04T09:25:46+09:00'
+id: 3f91489b5565d2424d14
 organization_url_name: null
 slide: false
 ignorePublish: false
