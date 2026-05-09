@@ -1,11 +1,12 @@
 ---
-title: "以下の最新AIトレンド情報を参考に、エンジニア向けの実践的な技術ブログ記事のトピックを1つ選び、記事を書いてください。
-トレンド情報は参考程度にし、実際に手を動"
+title: >-
+  以下の最新AIトレンド情報を参考に、エンジニア向けの実践的な技術ブログ記事のトピックを1つ選び、記事を書いてください。
+  トレンド情報は参考程度にし、実際に手を動
 tags:
   - tech
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-05-09T20:00:01+09:00'
+id: c272c4f8b51d77aeea19
 organization_url_name: null
 slide: false
 ignorePublish: false
