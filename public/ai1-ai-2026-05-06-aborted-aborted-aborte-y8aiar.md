@@ -7,7 +7,7 @@ tags:
   - Pydantic
   - 生成AI
 private: false
-updated_at: '2026-07-27T11:31:53+09:00'
+updated_at: '2026-09-29T22:49:23+09:00'
 id: c272c4f8b51d77aeea19
 organization_url_name: null
 slide: false
