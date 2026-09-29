@@ -1,22 +1,4 @@
 ---
-title: >-
-  以下の最新AIトレンド情報を参考に、エンジニア向けの実践的な技術ブログ記事のトピックを1つ選び、記事を書いてください。
-  トレンド情報は参考程度にし、実際に手を動
-tags:
-  - tech
-private: false
-updated_at: '2026-07-27T11:31:53+09:00'
-id: c272c4f8b51d77aeea19
-organization_url_name: null
-slide: false
-ignorePublish: false
----
-まず、最新の関連情報をリサーチしてから記事を作成します。リサーチ完了。記事を生成します。記事が完成しました。以下がMarkdown記事本文です：
-
----
-
-```markdown
----
 title: "【2026年最新】LLMのJSON出力をregexで頑張るのはもう終わり。Structured Outputsで本番品質を手に入れる"
 tags:
   - Python
@@ -24,12 +6,14 @@ tags:
   - OpenAI
   - Pydantic
   - 生成AI
-private: true
-updated_at: ''
-id: null
+private: false
+updated_at: '2026-07-27T11:31:53+09:00'
+id: c272c4f8b51d77aeea19
 organization_url_name: null
 slide: false
 ignorePublish: false
+posting_campaign_uuid: null
+agreed_posting_campaign_term: false
 ---
 
 ## 「また壊れた」を繰り返す前に読んでほしい
@@ -315,20 +299,3 @@ Structured Outputは実験的なものから本番スタンダードへと変化
 - [Anthropic Structured Outputs ブログ](https://claude.com/blog/structured-outputs-on-the-claude-developer-platform)
 - [Pydantic AI 公式サイト](https://ai.pydantic.dev/)
 - [Outlines（オープンソース制約付き生成）](https://github.com/dottxt-ai/outlines)
-```
-
----
-
-## 記事の概要・執筆方針の補足
-
-**選んだトピック：** LLM Structured Outputs（構造化出力）の実践
-
-**理由：**
-- 過去記事と重複しない実践寄りのテーマ
-- 2026年現在でOpenAI・Anthropic両社がGA（一般提供）に達した旬なトピック
-- 「今日から使える」具体コードが書ける
-
-**ウェブ検索で裏付けた主要事実：**
-- Structured Output未使用時の8〜15%パース失敗率 → 導入後0.1%未満という実測値
-- AnthropicのStructured OutputsがClaude Sonnet/Opus/Haiku 4.5でGAとなり、パラメータ名が `output_format` から `output_config.format` に変更された事実
-- 推論タスクでの強制JSON制約が精度を10〜15%低下させるという研究知見
