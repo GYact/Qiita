@@ -7,7 +7,7 @@ tags:
   - devops
   - AX
 private: false
-updated_at: '2026-09-29T17:21:52+09:00'
+updated_at: '2026-09-29T17:39:15+09:00'
 id: 4450f33aba56765c8acf
 organization_url_name: null
 slide: false
