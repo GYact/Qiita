@@ -7,7 +7,7 @@ tags:
   - MCP
   - Anthropic
 private: false
-updated_at: '2026-09-29T17:20:32+09:00'
+updated_at: '2026-09-29T17:26:10+09:00'
 id: 1f382fdd1df2b2cb2cc8
 organization_url_name: null
 slide: false
